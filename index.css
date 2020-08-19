@@ -1,0 +1,38 @@
+/* Full Name: Muembo Ilunga Michel
+ * Student Number : 218303335
+ * Started : 14/7/2020
+ * Done : 23/7/2020.
+ */
+/* this is our register.php styling page */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+html,body
+{
+    background-color: darkslateblue;
+}
+.wrapper{
+    display: block;
+    height: 680px;
+    width: 400px;
+    margin: -150px 0 0 -230px;
+    padding: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    box-sizing:border-box;
+    background-color: #fff ;
+    text-align: center;
+    overflow: hidden;
+
+}
+input{
+    width: 330px;
+    height: 100px;
+    border-radius: 5px;
+    box-shadow: 5px;
+    text-align: center;
+}
